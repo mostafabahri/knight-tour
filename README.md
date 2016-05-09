@@ -1,4 +1,3 @@
-## knightTourProgram
 #Knight's Tour Program#
 
 **Implemented in C++.**
